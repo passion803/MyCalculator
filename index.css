@@ -1,0 +1,35 @@
+#div_cal
+{
+	border-collapse: collapse;
+	margin: auto auto;    
+}
+
+#ans
+{
+	width: 410px;
+    line-height: 50px;
+    font-size: x-large;
+    text-align: right;
+    border-color: darkgrey;
+}
+
+#n_Click{
+    width: 100px;
+    line-height: 50px;
+    font-size: x-large;
+    background-color: silver;
+}
+
+#o_Click{
+    width: 100px;
+    line-height: 50px;
+    font-size: x-large;
+    background-color: palevioletred;
+}
+
+#a_Click{
+    width: 100px;
+    line-height: 50px;
+    font-size: x-large;
+    background-color: slategrey;
+}
